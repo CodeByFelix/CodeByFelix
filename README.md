@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Felix
-- 👀 I’m interested in C++ sofware developement and embedded system development
-- 🌱 I currently develope optimised C++ code with modern C++, computer vision with OpenCV, Embedded system devices with Arduino and ESP 32, and learnong Qt framwork. 
+- 👀 I’m interested in developing AI models for solving different realworld problem, developing AI solutions both LLM and Computer Vision, C++ sofware developement and embedded system development using Arduino and ESP32.
+- 🌱 I currently develope AI solutions for solving realworl problems using tensorflow etc, optimised C++ software with modern C++, computer vision with OpenCV, Embedded system devices with Arduino and ESP32. 
 - 💞️ I’m looking to collaborate on any of my skills or taking up a new challenge
 - 📫 
 
